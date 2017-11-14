@@ -1,7 +1,11 @@
 {
   "name": "generator-node-express-typescript-g",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "this is a small generator of node express typescript",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruedagato/generator-node-express-typescript-g.git"
+  },
   "author": {
     "name": "Jose Vargas",
     "email": "jg.vargas@pappcorn.com"
@@ -78,6 +82,5 @@
       "prettier"
     ]
   },
-  "repository": "ruedagato/generator-node-express-typescript-g",
   "license": "MIT"
 }
