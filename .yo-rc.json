@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Jose Vargas",
+      "authorEmail": "jg.vargas@pappcorn.com",
+      "authorUrl": ""
+    }
+  }
+}
