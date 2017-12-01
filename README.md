@@ -16,6 +16,20 @@ Then generate your new project:
 yo node-express-typescript-g
 ```
 
+## Use
+
+before to run debugger in visual studio code, run task **tsc**
+
+In Mac
+```
+cmnd + shift + p
+```
+
+In windows
+```
+cntr + shift + p
+```
+
 ## Getting To Know Yeoman
 
  * Yeoman has a heart of gold.
